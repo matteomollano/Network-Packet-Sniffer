@@ -1,5 +1,8 @@
 # Network Packet Sniffer
 
+_Note: This code was implemented in Python using Kali Linux (will not work with macOS or Windows). 
+Additionally, this code must be run using admin privileges:_ `sudo python3 packet_sniffer.py`
+
 This project captures and analyzes network traffic using a packet sniffer approach.
 
 Key Features:
